@@ -1,0 +1,1 @@
+I am a third year Ph.D. student in the Department of Industrial & Systems Engineering at the University at Buffalo. My research interests are focused in integer programming, polyhedral study and dynamic programming to solve graph partitioning and network interdiction problems.

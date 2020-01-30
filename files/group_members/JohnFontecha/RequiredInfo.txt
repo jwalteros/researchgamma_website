@@ -1,0 +1,19 @@
+Name: John Edgar Fontecha García (John E. Fontecha)
+email: johnedga@buffalo.edu, je.fontecha10@uniandes.edu
+twitter: @john_fontecha
+linkedin: https://www.linkedin.com/in/fontecha-john-e
+
+come up with some posts (pic + title + descriptions): Pending, I do not have news to share, I believe. 
+list of research areas: (I am not sure of these, but I can discuss with Dr. Walteros) Energy systems, Sustainable systems, Transportation and logistics systems
+Current Projects: Data-driven optimization models for the distribution of incentives to maximize behavior/product adoption: a) Promoting the installation of green infrastructure in private land, b) Reach maximization for social loteries.
+Published papers: 
+(Energy systems) 
+-Fontecha, J. E., Cano, N. A., Velasco, N., Muñoz, F. (2016). Optimal sectioning of hydrocarbon transport pipeline by volume minimization, environmental and social vulnerability assessment. Journal of Loss Prevention in the Process Industries. 44, 681-689. 
+-Cano, N. A., Fontecha, J. E., Velasco, N., Muñoz, F. (2016). Shortest path algorithm for optimal sectioning of hydrocarbon transport pipeline. IFAC-PapersOnLine. 49 (12), 532-537.
+(Transportation and logistics systems)
+-Fontecha, J. E., Guaje, O., Duque, D., Akhavan-Tabatabei, R., Rodríguez, J. P., & Medaglia A. L. (2019). Combined maintenance and routing optimization for large-scale sewage cleaning. Annals of Operations Research. In Press.
+-Fontecha, J. E., Akhavan-Tabatabei, R., Duque, D., Medaglia A. L., Torres, M. N., & Rodríguez, J. P. (2016). On the preventive management of sediment-related sewer blockages: a combined maintenance and routing optimization approach. Water Science & Technology. 74 (2), 302-308.
+(Sustainable systems)
+-Torres, M. N., Fontecha, J. E., Zhu, Z., Walteros, J. L., & Rodríguez, J. P. (2019). A participatory approach based on stochastic optimization for the spatial allocation of Sustainable Urban Drainage Systems for rainwater harvesting. Environmental Modelling & Software. In Press.
+-Fontecha, J. E., Walteros, J. L., Nikolaev, A. (2019). Reach maximization for social loteries. Submitted.
+
