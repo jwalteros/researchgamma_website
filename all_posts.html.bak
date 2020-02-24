@@ -7,11 +7,9 @@
 <!--<![endif]-->
 
 <head>
-  <!-- un-comment and delete 2nd meta below to disable zoom (not cool) -->
-<!--meta name="viewport" content="width=device-width, user-scalable=no" -->
-<!--meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" -->
-<!--meta name="viewport" content="min-width=980px, minimum-scale=1, maximum-scale=1" -->
-<!--meta name="viewport" content="width=device-width, initial-scale=1" /-->
+<!-- un-comment and delete 2nd meta below to disable zoom (not cool)
+<meta name="viewport" content="width=device-width, minimum-scale=1, maximum-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1" /> -->
 <meta charset="UTF-8">
 <script type="text/javascript" src="js/jquery.js"></script>
 <title>GAMMA Research Group</title>
@@ -20,7 +18,7 @@
 <!-- RSS -->
 <link rel="alternate" type="application/rss+xml" title="#" href="#" />
 
-
+         
 <!-- Favicon -->
 <link rel="shortcut icon" href="images/favicon.ico"/>
 
@@ -31,7 +29,7 @@
 
 <!-- Primary CSS -->
 <link rel="stylesheet" href="style.css" type="text/css" media="all" />
-<!-- link rel="stylesheet" href="css/_mobile.css" type="text/css" media="all" / -->
+<!-- <link rel="stylesheet" href="css/_mobile.css" type="text/css" media="all" /> -->
 
 
 <!-- Color Scheme CSS -->
@@ -96,7 +94,6 @@ behavior: url(js/PIE/PIE.htc);
 <![endif]-->
 </head>
 <body>
-  <div id="fixsize">
    <div id="tt-wide-layout" class="content-style-default">
       <div id="wrapper">
          <header role="banner" id="header">        
@@ -126,7 +123,6 @@ behavior: url(js/PIE/PIE.htc);
                <div class="header-overlay">
                   <div class="header-area">
                      <a href="index.html" class="logo"><img src="images/logo/Logos/svg/logo_blue-name_white.svg" alt="Karma Responsive Web Template" class="tt-retina-logo" width="215" height="50" /></a>
-
                      
                      <!-- ***************** - Main Menu - ***************** -->
                      <nav role="navigation">
@@ -156,113 +152,170 @@ behavior: url(js/PIE/PIE.htc);
                            </li>
 
                            <li><a href="resources.html"><span><strong>Resources</strong><span class="navi-description">Tools & Links</span></span></a></li>
+                        </ul>
                      </nav>
 
-                     <div class="jquery2-slider-wrap flexslider">
-					   <div class="jquery2-slider-bg" style="background-color:#">
-						  <ul class="slides">
-
-							 <li class="jqslider karma-slider-normal-image">
-								<div class="slider-content-main">
-								   <h2 class="slider-post-title">The Gamma Research Group</h2>
-								   <p> GAMMA is a research group that studies the use of mathematical modeling, operations research, and analytics to solve problems that arise from a wide variety of practical and theoretical applications. The tools and techniques developed by the group have been used to solve problems in the areas of vehicle routing, transportation, data association, network interdiction, social network analysis, and operations management. 
-
-                   <!-- Every aspect of Karma makes it super easy to personalize your website just the way you want it. We&#8217;ve worked tirelessly to ensure that Karma will continue to deliver the powerful options you&#8217;re after. With 30 preset color schemes, 6 premium sliders and over 100 glorious shortcodes Karma is the perfect choice for experts and beginners alike.-->
-                </p>
-								</div>
-								<!-- END slider-content-main -->
-								<div class="slider-content-sub">
-								   <!-- img src="http://placehold.it/436x270" width="436" height="270" alt="" / -->
-								   <img src="images/home_pages/01.jpg" width="436" height="270" alt="" />
-								</div><!-- END slider-content-sub -->
-							 </li>
-
-							 <li class="jqslider karma-slider-normal-image">
-								<div class="slider-content-main">
-								   <h2 class="slider-post-title">Mission and Vision</h2>
-								   <p>We aim to develop solutions for complex problems via the effective use of operations research and artificial intelligence techniques. By doing so, GAMMA provides its students with an extensive learning experience that prepares them for future research endeavors. Our vision is to consolidate the research developments and become a recognized research hub by the operations research community.</p>
-								</div><!-- END slider-content-main -->
-								<div class="slider-content-sub">
-								   <img src="images/home_pages/02.jpg" width="436" height="270" alt="" />
-								</div><!-- END slider-content-sub -->
-							 </li>
-
-							 <li class="jqslider">
-								<div class="slider-content-sub-full-width">
-								   <img src="images/home_pages/03.jpg" width="840" height="270" alt="" />
-								</div><!-- END slider-content-sub -->
-							 </li>
-						  </ul>
-					   </div><!-- END jquery2-slider-bg -->
-					</div><!-- END jquery2-slider-wrap -->
           </div><!-- END header-area -->
           </div><!-- END header-overlay -->
           </div><!-- END header-holder -->
           </header><!-- END header -->
          
+         
          <!-- ***************** - Main Content Area - ***************** -->
-         <div id="main" class="tt-slider-karma-custom-jquery-2">
-
+         <div id="main">
 		     <div class="main-area">
               <!-- ////////////////////////////////////////////////////////// -->
               <!-- ***************** - Content Start Here - ***************** -->
               <!-- ////////////////////////////////////////////////////////// -->
                
-			<main role="main" id="content" class="content_full_width">
-        <h3 class="heading-horizontal" style="margin:20px 0 20px 0;"><span>Group Highlights</span></h2>
-				<div class="one_fourth tt-column">
-				   <div class="modern_img_frame modern_three_col_small">
-					  <div class="img-preload lightbox-img">
-						 <a href="https://www.sciencedirect.com/science/article/pii/S1364815218307990">
-							<div class="lightbox-zoom zoom-3-small" style="position:absolute; display: none;">&nbsp;</div>
-							<!-- img src='http://placehold.it/202x113' alt='' class="attachment-fadeIn" /-->
-				      <img src="files/posts/02102020RainwaterHarvesting/Torres_paper.png" width="202" height="113" alt="" />
-						 </a>
-					  </div>
-				   </div>
-				</div>
-        <p class="callout2"><b>New Publication</b></p>
-        <p>We are excited to highlight the work of <a href="group_current.html?#MN">Dr. Maria Torres</a>, <i>Applied mathematical model for rainwater harvesting using Green Infrastructure</i>, has been published in Environmental Modelling & Software.</p>
-				<a class="callout2-href" href="https://www.sciencedirect.com/science/article/pii/S1364815218307990">Learn More</a>
-        <br class="clear" />
-        <div class="hr_gap" style="height:0px;"></div>
-				<div class="hr">&nbsp;</div>
-
-        <p class="callout2">The most recent news 2...</p>
-				<a class="callout2-href" href="template-blog-single-post.html">Learn More</a>
-        <br class="clear" />
-        <div class="hr_gap" style="height:-20px;"></div>
-				<div class="hr">&nbsp;</div>
-
-        <p class="callout2">The most recent news 3...</p>
-				<a class="callout2-href" href="template-blog-single-post.html">Learn More</a>
-        <br class="clear" />
-        <div class="hr_gap" style="height:-20px;"></div>
-				<div class="hr">&nbsp;</div>
+               <div class="tools">
+               <span class="tools-top"></span>
+               <div class="frame">
+                  <h1>Group Posts</h1>
+                  </div><!-- END frame -->
+                  <span class="tools-bottom"></span>
+                  </div><!-- END tools -->
                   
-        <p class="callout2">The most recent news 4...</p>
-				<a class="callout2-href" href="template-blog-single-post.html">Learn More</a>
-        <br class="clear" />
-        <div class="hr_gap" style="height:-20px;"></div>
-				<div class="hr">&nbsp;</div>
 
-        <p class="callout2">The most recent news 5...</p>
-				<a class="callout2-href" href="template-blog-single-post.html">Learn More</a>
-        <br class="clear" />
-        <div class="hr_gap" style="height:-20;"></div>
-				<div class="hr1">&nbsp;</div>
+			<main role="main" id="content" class="content_full_width">
+                  <div class="blog-posts-shortcode-outer-wrap">
+                     <div class="one_third tt-column">
+                        <div class="modern_img_frame modern_three_col_large">
+                           <div class="img-preload lightbox-img">
+                              <a href="https://www.sciencedirect.com/science/article/pii/S1364815218307990" class="attachment-fadeIn">
+                                 <div class="lightbox-zoom zoom-3 zoom-link" style="position:absolute; display: none;">&nbsp;</div>
+                                 <!-- img src="http://placehold.it/275x145" alt="Metro Design Style" /-->
+                                 <img src="files/posts/RainwaterHarvesting/Torres_paper.png" width="275" height="145" alt="Metro Design Style" />
+                              </a>
+                           </div>
+                        </div>
+                        <h4>Applied mathematical model for rainwater harvesting using Green Infrastructure</h4>
+                        <p> We are excited to highlight the work of <a href="group_current.html?#MN">Dr. Maria Torres</a> for her recent work published in Environmental Modelling & Software.
+                        </p>
+                     </div>
+                     <div class="one_third tt-column">
+                        <div class="modern_img_frame modern_three_col_large">
+                           <div class="img-preload lightbox-img">
+                              <a href="#" class="attachment-fadeIn">
+                                 <div class="lightbox-zoom zoom-3 zoom-link" style="position:absolute; display: none;">&nbsp;</div>
+                                 <!-- img src="http://placehold.it/275x145" alt="Metro Design Style" /-->
+                                 <img src="http://placehold.it/275x145" alt="Metro Design Style" />
+                              </a>
+                           </div>
+                        </div>
+                        <h4>Post 2</h4>
+                        <p>
+                           The term "Metro style" is a little ambiguous, as it refers both to a Windows Runtime (WinRT) application targeted a...
+                        </p>
+                     </div>
+                     <div class="one_third_last tt-column">
+                        <div class="modern_img_frame modern_three_col_large">
+                           <div class="img-preload lightbox-img">
+                              <a href="#" class="attachment-fadeIn">
+                                 <div class="lightbox-zoom zoom-3 zoom-link" style="position:absolute; display: none;">&nbsp;</div>
+                                 <img src="http://placehold.it/275x145" alt="Optimize WordPress" />
+                              </a>
+                           </div>
+                        </div>
+                        <h4>Post 3</h4>
+                        <p>
+                           We recently looked at 11 Quick Tips for Securing Your WordPress Site, which included some easy, but essential tips...
+                        </p>
+                     </div>
+                  </div>
+                  <br class="clear" />
 
-				<a class="callout2-href" href="all_posts.html">Read All Posts</a>
+                   <div class="one_third tt-column">
+                      <div class="modern_img_frame modern_three_col_large">
+                         <div class="img-preload lightbox-img">
+                            <a href="#" class="attachment-fadeIn">
+                               <div class="lightbox-zoom zoom-3 zoom-link" style="position:absolute; display: none;">&nbsp;</div>
+                               <img src="http://placehold.it/275x145" alt="Responsive WordPress Theme" />
+                            </a>
+                         </div>
+                      </div>
+                      <h4>Post 4</h4>
+                      <p>
+                         Let’s assess the situation. WordPress is an extremely popular, flexible, easy to use and open-source blogging and...
+                      </p>
+                   </div>
+                   <div class="one_third tt-column">
+                      <div class="modern_img_frame modern_three_col_large">
+                         <div class="img-preload lightbox-img">
+                            <a href="#" class="attachment-fadeIn">
+                               <div class="lightbox-zoom zoom-3 zoom-link" style="position:absolute; display: none;">&nbsp;</div>
+                               <img src="http://placehold.it/275x145" alt="Metro Design Style" />
+                            </a>
+                         </div>
+                      </div>
+                      <h4>Post 5</h4>
+                      <p>
+                         The term "Metro style" is a little ambiguous, as it refers both to a Windows Runtime (WinRT) application targeted a...
+                      </p>
+                   </div>
+                   <div class="one_third_last tt-column">
+                      <div class="modern_img_frame modern_three_col_large">
+                         <div class="img-preload lightbox-img">
+                            <a href="#" class="attachment-fadeIn">
+                               <div class="lightbox-zoom zoom-3 zoom-link" style="position:absolute; display: none;">&nbsp;</div>
+                               <img src="http://placehold.it/275x145" alt="Optimize WordPress" />
+                            </a>
+                         </div>
+                      </div>
+                      <h4>Post 6</h4>
+                      <p>
+                         We recently looked at 11 Quick Tips for Securing Your WordPress Site, which included some easy, but essential tips...
+                      </p>
+                   </div>
+                <br class="clear" />
 
-        <br class="clear" />
-        <br class="clear" />
-        <br class="clear" />
-        <div align="center">
-        <ul class="social_icons tt_vector_social_icons tt_vector_social_color tt_show_social_title">
-           <li><a title="Twitter" class="twitter non-keyboard-outline" href="https://twitter.com/ResearchGamma?ref_src=twsrc%5Etfw">Twitter</a></li>
-        </ul>
-        </div>
+                 <div class="one_third tt-column">
+                    <div class="modern_img_frame modern_three_col_large">
+                       <div class="img-preload lightbox-img">
+                          <a href="#" class="attachment-fadeIn">
+                             <div class="lightbox-zoom zoom-3 zoom-link" style="position:absolute; display: none;">&nbsp;</div>
+                             <img src="http://placehold.it/275x145" alt="Responsive WordPress Theme" />
+                          </a>
+                       </div>
+                    </div>
+                    <h4>Post 7</h4>
+                    <p>
+                       Let’s assess the situation. WordPress is an extremely popular, flexible, easy to use and open-source blogging and...
+                    </p>
+                 </div>
+                 <div class="one_third tt-column">
+                    <div class="modern_img_frame modern_three_col_large">
+                       <div class="img-preload lightbox-img">
+                          <a href="#" class="attachment-fadeIn">
+                             <div class="lightbox-zoom zoom-3 zoom-link" style="position:absolute; display: none;">&nbsp;</div>
+                             <img src="http://placehold.it/275x145" alt="Metro Design Style" />
+                          </a>
+                       </div>
+                    </div>
+                    <h4>Post 8</h4>
+                    <p>
+                       The term "Metro style" is a little ambiguous, as it refers both to a Windows Runtime (WinRT) application targeted a...
+                    </p>
+                 </div>
+                 <div class="one_third_last tt-column">
+                    <div class="modern_img_frame modern_three_col_large">
+                       <div class="img-preload lightbox-img">
+                          <a href="#" class="attachment-fadeIn">
+                             <div class="lightbox-zoom zoom-3 zoom-link" style="position:absolute; display: none;">&nbsp;</div>
+                             <img src="http://placehold.it/275x145" alt="Optimize WordPress" />
+                          </a>
+                       </div>
+                    </div>
+                    <h4>Post 9</h4>
+                    <p>
+                       We recently looked at 11 Quick Tips for Securing Your WordPress Site, which included some easy, but essential tips...
+                    </p>
+                 </div>
+              </div>
+              <br class="clear" />
 
+
+            </div><!-- END blog-posts-shortcode-outer-wrap -->
         </main><!-- END main #content -->
         </div><!-- END main-area -->
                   <!-- ////////////////////////////////////////////////////////// -->
@@ -276,9 +329,6 @@ behavior: url(js/PIE/PIE.htc);
          
       <div id="footer-top">&nbsp;</div>
       </div><!-- END main -->
-         
-         
-         
          
          <!-- ***************** - Footer Starts Here - ***************** -->
          <footer role="contentinfo" id="footer">
@@ -307,7 +357,6 @@ behavior: url(js/PIE/PIE.htc);
                         <br>
                         <br>
                         </p>
-                        <br class="clear" />
                      </div>
                   </div>
                   
@@ -341,7 +390,6 @@ behavior: url(js/PIE/PIE.htc);
        
 </div><!-- END wrapper -->
 </div><!-- END tt-layout -->
-</div><!-- END fixsize -->
 
 
 
@@ -351,8 +399,7 @@ behavior: url(js/PIE/PIE.htc);
 <script type="text/javascript" src="js/superfish.js"></script>
 <script type="text/javascript" src="js/jquery.flexslider.js"></script>
 <script type="text/javascript" src="js/jquery.fitvids.js"></script>
-<script type="text/javascript" src="js/scrollWatch.js"></script>
-<!-- <script type="text/javascript" src="js/scrollWatch.js"></script> -->
+<!--script type="text/javascript" src="js/scrollWatch.js"></script-->
 <script type="text/javascript" src="js/jquery.isotope.js"></script>
 <script type="text/javascript" src="js/jquery.ui.core.min.js"></script>
 <script type="text/javascript" src="js/jquery.ui.widget.min.js"></script>
