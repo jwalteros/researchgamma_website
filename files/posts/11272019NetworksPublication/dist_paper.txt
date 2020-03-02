@@ -1,0 +1,14 @@
+Title: New Publication
+
+Date:  Nov. 2019
+
+Short Description: 
+
+We are excited to highlight the work of Ningji Wei, On the Distance Between Random Events on a Network, has been published in the journal Networks.
+
+Detailed Description:
+
+The paper On the Distance Between Random Events on a Network by Ningji Wei, Dr. Jose Walteros, and Dr. Rajan Batta has been published in the journal Networks. In the paper, they studied several statistical properties regarding the distance between events that occur on random locations along the edges of a given network. The results can be applied to network design and analysis, facility location selection, and emergency response systems design.
+
+Keywords: publication, networks, distance, random events
+
