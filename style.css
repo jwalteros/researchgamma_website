@@ -3325,7 +3325,7 @@ p + .heading-horizontal { padding-top: 0;}
 }
 
 .post_date {
-	height: 64px;
+	height: 84px;
 	top: 2px;
 	box-shadow: 0 0 0 1px #51596C, 0 0 0 2px #000;
 	background-color: #010101;
@@ -3349,6 +3349,15 @@ p + .heading-horizontal { padding-top: 0;}
 }
 
 .post_date .month {
+	color: #A2A3A4;
+	font-size: 16px;
+	text-transform: uppercase;
+	display: block;
+	text-align: center;
+	margin: -14px 0 -5px;
+}
+
+.post_date .year {
 	color: #A2A3A4;
 	font-size: 16px;
 	text-transform: uppercase;
@@ -7969,6 +7978,11 @@ p {
 }
 
 .post_date .month {
+	font-size: 15px;
+	margin-top: -15px;
+}
+
+.post_date .year {
 	font-size: 15px;
 	margin-top: -15px;
 }

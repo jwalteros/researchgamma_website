@@ -1,0 +1,11 @@
+Title: Internship
+
+Date: Dec. 2019
+
+Short Description:
+Cai did an internship in Los Alamos National Lab (LANL), New Mexico, from 06/2019 to 12/2019. He worked on a project of "developing a novel interpretable machine learning model" with LANL scientist Dr. Hassan Hijazi. 
+
+While classical machine learning algorithms heavily rely on unconstrained optimization techinieques, this internship project mainly focuses on developing a constrained-based approach, called Hypersphere Classifier, to help guide and accelerate machine learning process. Our preliminary results demonstrate, in the case of 2-D object shape recognition, i.e., handwritten digit classification, this new classfifier can reach 92.0% accuracy while visualizing whole learning process. 
+
+
+Keywords: Machine Learning, Los Alamos National Lab, Internship
